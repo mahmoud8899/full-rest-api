@@ -1,0 +1,3 @@
+
+GET http://localhost:8000/api/product/product/?page=3&limit=4
+
